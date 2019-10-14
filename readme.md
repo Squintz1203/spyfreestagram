@@ -16,13 +16,13 @@ Firstly, to run this application, you will need active AWS credentials and a buc
 
 
 - Install dependencies<br>
-`composer install`
+`composer install`<br>
 `npm install && npm run dev`
-- Create migrations
+- Create migrations<br>
 `php artisan migrate:fresh`
-- Optimize application performance
+- Optimize application performance<br>
 `php artisan config:cache && php artisan route:cache`
-- Run server
+- Run server<br>
 `php artisan serve`
 
 You should be able to access application on `127.0.0.1:8000`
