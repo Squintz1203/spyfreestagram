@@ -16,7 +16,7 @@ You can view and test this application online by following this url `http://18.1
 ### Test Users
 Registered users are: `test@test.com, test2@test.com, test3@test.com` with password of `12345678`
 
-In order to view already created profiles you need to access them via `http://18.195.169.19/profile/{user}` where `{user}` is your id. (available ids are: `1, 2, 3`
+In order to view already created profiles you need to access them via `http://18.195.169.19/profile/{user}` where `{user}` is your id. (available ids are: `1, 2, 3`)
 
 ## Try application locally
 
