@@ -7,3 +7,4 @@ This is a simple Instagram clone app, built with:
 - SQLite3
 - VueJS 2.5
 - Bootstrap 4
+- AWS S3
