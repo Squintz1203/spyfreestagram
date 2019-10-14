@@ -15,7 +15,7 @@ To get started clone this repo
 Firstly, to run this application, you will need active AWS credentials and a bucket, once you have them in your `.env` file, do the following:
 
 
-- Install dependencies
+- Install dependencies<br>
 `composer install`
 `npm install && npm run dev`
 - Create migrations
