@@ -29,10 +29,12 @@ Firstly, to run this application, you will need active AWS credentials and a buc
 - Install dependencies<br>
 `composer install`<br>
 `npm install && npm run dev`
+- Generate application key
+`php artisan key:generate`
 - Create migrations<br>
 `php artisan migrate:fresh`
 - Optimize application performance<br>
-`php artisan config:cache && php artisan route:cache`
+`php artisan config:cache`
 - Run server<br>
 `php artisan serve`
 
