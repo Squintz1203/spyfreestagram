@@ -9,16 +9,7 @@ This is a simple Instagram clone app, built with:
 - Bootstrap 4
 - AWS S3
 
-## Try application online
-
-You can view and test this application online by following this url `http://18.195.169.19/` and using registered test users or create your own users.
-
-### Test Users
-Registered users are: `test@test.com, test2@test.com, test3@test.com` with password of `12345678`
-
-In order to view already created profiles you need to access them via `http://18.195.169.19/profile/{user}` where `{user}` is your id. (available ids are: `1, 2, 3`)
-
-## Try application locally
+## Try application
 
 To get started clone this repo
 `git clone https://github.com/joffarex/spyfreestagram.git`
